@@ -1,0 +1,53 @@
+
+.title {
+    text-align: center;
+    color: #1414e3;
+    background-color: white;
+    font-size: 24px;
+    display: inline;
+}
+
+ .lasagna,
+.spaghetti,
+.pizza {
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    border: 2px rgb(195, 101, 58) solid;
+    padding: 12px;
+    display: inline-block;
+    text-align: center;
+    margin: 12px auto;
+    margin-right: 15px;
+    width: 100px;
+    height: 25px;
+    
+} 
+
+.buttons {
+    text-align: center;
+    margin: 12px auto;
+
+}
+
+a {
+    text-decoration:wavy;
+    color: rgb(195, 101, 58);
+}
+
+.lasagna-page {
+    text-align: center;
+    color: rgb(195, 101, 58);
+    background-color: white;
+    font-size: 32px;
+}
+
+#piclasagna {
+    display: block;
+    margin: 0 auto;
+    width: 240px;
+    height: auto;
+}
